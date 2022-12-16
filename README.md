@@ -512,7 +512,7 @@ Das Verdienen von Belohnungen/Gegenständen war Teil des ursprünglichen Charmes
 
 In Bezug auf Minispiele werden leider für bestimmte Szenen nicht alle Minispiele funktionieren, da das Destination Home-Team zusätzliche Aufmerksamkeit/Zeit erfordert, um solche Dienste in einer stabilen Umgebung zum Laufen zu bringen. Für unseren Beta-Start habe ich eine unkomplizierte [Kompatibilitätsliste](https://github.com/DestinationHome/Destination-Home-Online/blob/main/.github/WIKI/minigame_compatibility_beta.csv) erstellt, die dokumentiert, welche Minispiele vollständig sind Arbeit oder nicht in alphabetischer Reihenfolge (A-Z).
 
-# 🕷️ Haben Sie kritische Fehler in PlayStation®Home gefunden? So können Sie sie dem Destination Home Team melden!
+# 🕷️ Haben Sie einen kritischen Fehler in PlayStation®Home entdeckt? So können Sie diesen dem Destination Home Team melden!
 
 ![NPIA00005_screenshot_2022_06_25_21_45_11](https://user-images.githubusercontent.com/67494727/177837044-4215c329-545d-47bd-8631-3b23a93c4baf.png)
 
