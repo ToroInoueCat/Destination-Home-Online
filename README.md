@@ -56,7 +56,7 @@ Wie bei jedem Multiplayer Online-Titel durchlaufen unsere Online-Dienste **stren
     
 - **1.** *Geschlossene Alpha* -  Interne Tests durch **Tester/Helfer** und **Entwickler**.
     
-- **2.** *Geschlossene Beta* [**Sitzung 1**] - Testen durch ***Cache-Spender* & **Nitro-Booster**.
+- **2.** *Geschlossene Beta* [**Sitzung 1**] - Testen durch **Cache-Spender** & **Nitro-Booster**.
     
     - Der Zugriff auf die **geschlossene Beta** wird in **vier** Schrittweisen erweitert:
     
