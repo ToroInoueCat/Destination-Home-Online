@@ -49,83 +49,86 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
 
 - [x] Hinzufügen zusätzlicher Sicherheitsdienste zum Schutz unseres zukünftigen Netzwerks und unserer Community, da wir wissen, dass Home damals auf der **PLAYSTATION®3** viele Sicherheitslücken hatte.
 - [x] Sicherstellen, dass unser Home-Client mit jeder PS3-Firmware kompatibel ist, z. B. mit der [offiziellen Firmware 4.89]. [4.89 official firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
-- [x] Fixing any broken services & functions e.g., broken video content, network activity between minigames. 
-- [ ] Localization for all objects & all public/private scenes.
-- [x] Stress testing our current network infrastructure.
+- [x] Behebung der defekten Dienste und Funktionen, z. B. defekter Videoinhalt, Netzwerkaktivität zwischen Minispielen.
+- [ ] Lokalisierung für alle Objekte und alle öffentlichen/privaten Szenen.
+- [x] Stresstests unserer aktuellen Netzwerkinfrastruktur.
     
-Just with any massively multiplayer online title, our online services will go through **rigorous** development cycles/stages to ensure that once we fully release Home back to the masses, we can ensure that *most* issues are sorted out. Down below here is the following development roadmap/pipeline that we are adhering to.
+Wie bei jedem Multiplayer Online-Titel durchlaufen unsere Online-Dienste **strenge** Entwicklungszyklen, /-phasen, um sicherzustellen, dass wir bestätigen können, dass die **meisten** Probleme gelöst werden, sobald wir Home vollständig für die breite Masse freigegeben haben. Hier unten finden Sie die folgende Entwicklungsroadmap/Pipeline, an der wir uns orientieren.
     
-- **1.** *Closed Alpha* - Internal testing by **Testers/Helpers** and **Developers**.
+- **1.** *Geschlossene Alpha* -  Interne Tests durch **Tester/Helfer** und **Entwickler**.
     
-- **2.** *Closed Beta* [**Session 1**] - Testing by **Cache Donators** & **Nitro Boosters**.
+- **2.** *Geschlossene Beta* [**Sitzung 1**] - Testen durch ***Cache-Spender* & **Nitro-Booster**.
     
-    - **Closed Beta** access will be expanded in **four** incremental phases:
+    - Der Zugriff auf die **geschlossene Beta** wird in **vier** Schrittweisen erweitert:
     
-       - Phase I: 20 people.
-       - Phase II: 50 people.
-       - Phase III: 100 people.
-       - Phase IV: All donators/boosters.
+       - Phase I: 20 Personen.
+       - Phase II: 50 Personen.
+       - Phase III: 100 Personen.
+       - Phase IV: Alle Spender/Booster.
     
-- **3.** *Closed Beta* [**Session 2**] -- As above but with improvements, fixes and more content added to our client.
-- **4.** *Open Beta* -- Early Access available to **all members** of the [Discord](https://discord.gg/QguSBT3).
-- **5.** *Official Release*  
+- **3.** *Geschlossene Beta* [**Sitzung 2**] -- Wie oben genannt, aber mit Verbesserungen, Korrekturen und weiteren Inhalten, die unserem Client hinzugefügt wurden.
+- **4.** *Offene Beta* -- Früher Zugang, der für **alle Discord-Mitglieder** verfügbar ist. [Discord](https://discord.gg/QguSBT3).
+- **5.** *Offizielle Veröffentlichung*  
     
-⚠️ | Note there is no *ETA* for each stage! Developers work in their **free time** and any real-life responsibilities e.g., *college*, *work*, *family matters* will dramatically affect progress; please be patient.
+⚠️ | Beachten Sie, dass es kein *Datum* dafür gibt, wann welche Phase eintritt! Die Entwickler arbeiten in ihrer **Freizeit** und an allen Verpflichtungen im echten Leben, z. B. *College*, *Arbeit*, *Familienangelegenheiten*. Diese beeinflussen den Fortschritt enorm; bitte haben Sie Geduld.
+    
 :---: | :---   
 
-# ✅ Destination Home Beta Enrollment Process:
+# ✅ Anmeldeprozess für die Destination Home Beta:
 
 ![CENTRAL PLAZA BETA ADD](https://user-images.githubusercontent.com/67494727/187321907-d5a3c9d0-ebca-4e3b-99f2-aa261f0ad854.png)
 
-The Closed Beta is a **2-week period** for users to test the online and provide the team with valuable data/information that will be used to further development.
-This version of Online has been *custom-tailored* for this testing and is *NOT* representative of what will eventually be made publicly available. 
+Die Closed Beta ist ein **2-wöchiger Zeitraum**, in dem Benutzer das Online testen und dem Team wertvolle Daten/Informationen zur Verfügung stellen können, die für die weitere Entwicklung verwendet werden.
+Diese Online-Version wurde für diesen Test *maßgeschneidert* und ist *NICHT* repräsentativ für das, was schließlich öffentlich verfügbar gemacht wird.
 
- ℹ️ | Important Information during the first Closed Beta Phase:
+ ℹ️ | Wichtige Informationen während der ersten geschlossenen Beta Phase:
 :---: | :--- 
 
-- You are being given early access to help provide data/metrics for development.
-- Features/Functionality WILL be broken or missing.
-- There WILL be bugs (especially on RPCS3).
-- Scenes, Clothing, Furniture and more will be very limited.
-- Any existing cache/savedata WILL be overwritten: ensure you've donated so it's not lost forever!
+- Sie erhalten frühzeitig Zugriff, um Daten/Metriken für die Entwicklung bereitzustellen.
+- Features/Funktionalität WERDEN defekt sein oder fehlen.
+- Es WIRD Fehler geben (insbesondere auf RPCS3).
+- Szenen, Kleidung, Möbel und mehr werden sehr begrenzt sein.
+- Alle vorhandenen Cache-/Speicherdaten WERDEN überschrieben: Stellen Sie sicher, dass Sie gespendet haben, damit sie nicht für immer verloren gehen!
 
- ℹ️ | Enrollment Information:
+ ℹ️ | Anmeldeinformationen:
 :---: | :--- 
 
-- You may only enroll 1 username.
-- Your username will be tied to your Discord ID for the duration of the Beta.
-- You cannot change your enrolled username after submission -- double-check it's accurate!
-- If you intend on playing on both RPCS3 and PS3, please ensure your usernames are identical.
-- Your PSN account region is typically where you live(d) at the time of creation of the account.
-- Your RPCN account region will be **North America** (by default).
-- Over the 2-week period, access will be provided randomly in phases; be patient.
-- We have every right to revoke access to any beta users if the [Destination Home Online Community Code of Conduct](https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A1-%7C-Destination-Home-Online-Community-Code-of-Conduct) is breached.
+- Sie können nur 1 Benutzernamen registrieren.
+- Ihr Benutzername wird für die Dauer der Beta an Ihre Discord-ID gebunden.
+- Sie können Ihren registrierten Benutzernamen nach dem Absenden nicht mehr ändern - überprüfen Sie, ob er korrekt ist!
+- Wenn Sie beabsichtigen, sowohl auf RPCS3 als auch auf PS3 zu spielen, stellen Sie bitte sicher, dass Ihre Benutzernamen identisch sind.
+- Die Region Ihres PSN-Kontos ist in der Regel der Ort, an dem Sie zum Zeitpunkt der Erstellung des Kontos leben.
+- Die Region Ihres RPCN-Kontos ist **Nordamerika** (standardmäßig).
+- Über den Zeitraum von 2 Wochen wird der Zugang nach dem Zufallsprinzip in Phasen gewährt; Seien Sie geduldig.
+- Wir haben das Recht, allen Beta-Benutzern den Zugriff zu entziehen, wenn der [Verhaltenskodex der Destination Home Online Community](https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A1-% 7C-Destination-Home-Online-Community-Verhaltenskodex) verletzt wird.
 
-📸 | We encourage the sharing of photos/videos during the Closed Beta, but please do point out the above points when posting just so people don't get the wrong idea!
+📸 | Wir empfehlen das Teilen von Fotos/Videos während der geschlossenen Beta, aber bitte weisen Sie beim Posten auf die oben genannten Punkte hin, damit die Leute nicht auf falsche Gedanken kommen!
+    
+    
 :---: | :--- 
 
-# ✍🏻 How to enroll in our Closed Beta Phase:
+# ✍🏻 So melden Sie sich für unsere geschlossene-Beta-Phase an:
     
 ![hub](https://user-images.githubusercontent.com/67494727/187338433-2674242f-1e40-4348-8b78-1f2eb15063bf.png)
  
-🤖 | As of `8/12/2022` the Destination Home Team has now deployed our official Beta Enrollment Bot which automatically accepts our Cache Donators/Nitro Boosters RPCN/PSN ID's in preparation for our first Closed Beta. Users will already need to be a verified Cache Donator/Nitro Booster in our [Discord Server](https://discord.com/invite/QguSBT3) to proceed this open enrollment phase. To get started users can type in the following arguments/commands:
+🤖 | Ab dem 12.08.2022 hat das Destination Home Team nun unseren offiziellen Beta-Registrierungs-Bot bereitgestellt, der in Vorbereitung auf unsere erste geschlossene Beta automatisch die RPCN-/PSN-IDs unserer Cache-Spender/Nitro-Booster akzeptiert. Benutzer müssen bereits ein verifizierter Cache-Spender/Nitro-Booster auf unserem [Discord-Server] (https://discord.com/invite/QguSBT3) sein, um diese offene Registrierungsphase fortzusetzen. Um zu beginnen, können Benutzer die folgenden Argumente/Befehle eingeben:
 :---: | :---
  
 - `/beta enroll [platform] [username] [region] [agreement]`
     
-  - The `version` parameter has the following 3 following options `PS3` `RPCS3` `BOTH` which will let us know what client you'll be using for our Beta Phase.
+  - Der Parameter „Version“ hat die folgenden 3 Optionen „PS3“, „RPCS3“, „BOTH“, die uns mitteilen, welchen Client Sie für unsere Beta-Phase verwenden werden.
    
-  - The `username` parameter allows you to type your **PSN/RPCN** ID. Be sure to type your ID exactly as it is shown on both network services.
+  - Mit dem Parameter „Benutzername“ können Sie Ihre **PSN/RPCN**-ID eingeben. Achten Sie darauf, Ihre ID genau so einzugeben, wie sie in beiden Netzwerkdiensten angezeigt wird.
     
-   - The `region` parameter has **4** selections that you can choose from `North America, Europe, Japan, Other`. This will document what region you PSN account is from and give the development team an idea of localization services compatibility.
+   - Der Parameter "Region" hat **4** Auswahlmöglichkeiten, die Sie aus "Nordamerika, Europa, Japan, Andere" auswählen können. Dadurch wird dokumentiert, aus welcher Region Ihr PSN-Konto stammt, und dem Entwicklungsteam eine Vorstellung von der Kompatibilität mit Lokalisierungsdiensten gegeben.
 
-   - The `agreement` parameter details that you've fully read the closed-beta information from the `/beta info` command in Discord.
+   - Der Parameter „Agreement“ gibt an, dass Sie die Closed-Beta-Informationen aus dem Befehl „/beta info“ in Discord vollständig gelesen haben.
       
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67494727/187336237-82e46696-bc97-4d66-8f3e-572d4a96711c.png">
 </p>
 
-- Note any **values** in `[square brackets]` are **MANDATORY** and will need to be filled out in order for you to be fully enrolled in our closed-beta testing phase!
+- Beachten Sie, dass alle **Werte** in `[eckigen Klammern]` **PFLICHT** sind und ausgefüllt werden müssen, damit Sie sich vollständig für unsere geschlossenen-Beta-Testphase anmelden können!
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67494727/175782768-5fa03371-91de-4994-954d-915c32beb2ba.png">
@@ -133,37 +136,37 @@ This version of Online has been *custom-tailored* for this testing and is *NOT* 
 
 ![officially enrolled](https://user-images.githubusercontent.com/67494727/187340876-0818dc75-e345-4d8e-a15f-15be28a2379c.png)
 
-# 🚧 Destination Home Development Roadmap:
+# 🚧 Roadmap für die Entwicklung von Destination Home:
 
 ![lw_sslounge_bg](https://user-images.githubusercontent.com/67494727/179326437-e0929657-89ad-4217-85b4-c66025b49645.png)
 
-Ever since we announced our official **alpha-testing** phase we know that the **Destination Home** × **PlayStation Home** community is always wanting to know the latest online updates. As a collective, the Destination Home Team has decided to be more apparent when it comes to our development process for Home's online revived services. Down below you can take a look at our current Roadmap update `7/15/2022`. 
+Seit wir unsere offizielle **Alpha-Testphase** angekündigt haben, wissen wir, dass die Community von **Destination Home** × **PlayStation Home** immer die neuesten Online-Updates wissen möchte. Als Kollektiv hat sich das Destination Home Team entschieden, in unserem Entwicklungsprozess für die wiederbelebten Online-Dienste von Home sichtbarer zu werden. Unten können Sie einen Blick auf unser aktuelles Roadmap-Update `15.07.2022` werfen.
 
 ![Roadmap](https://user-images.githubusercontent.com/67494727/179326946-3c696c13-c2c4-45c1-bd2a-ac6e5476854f.png)
 
-Our roadmap has **three classifications** which will detail our current priorities and how far they've come along in the development process as we provide occasional updates.
+Unsere Roadmap hat **drei Klassifikationen**, die unsere aktuellen Prioritäten und wie weit sie im Entwicklungsprozess fortgeschritten sind, detailliert beschreiben, während wir gelegentlich Updates bereitstellen.
 
-- 🟢 **Short-term**
-- 🟠 **Mid-term**
-- 🔴 **Long-term**
+- 🟢 **Kurzfristig**
+- 🟠 **Mittelfristig**
+- 🔴 **Langfristig**
 
- ℹ️ | Note this roadmap will be updated occasionally as we work on our networking framework/infrastructure.
+ ℹ️ | Beachten Sie, dass diese Roadmap gelegentlich aktualisiert wird, wenn wir an unserem Netzwerk-Framework/unserer Infrastruktur arbeiten.
 :---: | :---  
  
-⚠️ | Please note: there is absolutely no timeline for this roadmap. We develop this project in our own free time and are not available 24/7 to work on it. Real-life responsibilities (work, school, personal) will affect development and take priority. Progress is also heavily reliant on the development of RPCN - the emulated version of PSN used by RPCS3 - as key networking functionality is yet to be implemented
+⚠️ | Bitte beachten Sie: Es gibt absolut keinen Zeitplan für diese Roadmap. Wir entwickeln dieses Projekt in unserer Freizeit und stehen nicht rund um die Uhr zur Verfügung, um daran zu arbeiten. Verantwortlichkeiten aus dem wirklichen Leben (Arbeit, Schule, Privat) werden sich auf die Entwicklung auswirken und Vorrang haben. Der Fortschritt hängt auch stark von der Entwicklung von RPCN ab – der emulierten Version von PSN, die von RPCS3 verwendet wird – da wichtige Netzwerkfunktionen noch implementiert werden müssen
 :---: | :---    
 
-# What's PlayStation Home?
+# Was ist PlayStation Home?
   
 ![NPIA00005_screenshot_2022_05_23_12_18_22](https://user-images.githubusercontent.com/67494727/169914462-a9a0afb6-9f39-4f5e-be54-4e5967985650.png)
     
-**PlayStation®Home** is a 3D social gaming community that allows **PLAYSTATION®3** users to meet, chat, plan, and launch into games together. You can create your own custom avatar, decorate your personal apartment, play mini-games, shop, watch videos, attend special events, and much more - it's all part of **PlayStation®Home**.
+**PlayStation®Home** ist eine soziale 3D-Gaming-Community, die es **PLAYSTATION®3**-Benutzern ermöglicht, sich zu treffen, zu chatten, zu planen und gemeinsam Spiele zu starten. Sie können Ihren eigenen benutzerdefinierten Avatar erstellen, Ihre persönliche Wohnung dekorieren, Minispiele spielen, einkaufen, Videos ansehen, an besonderen Veranstaltungen teilnehmen und vieles mehr – all das ist Teil von **PlayStation®Home**.
 
-# First time playing PlayStation®Home? Check out the official Help System Guide.
+# Spielen Sie zum ersten Mal PlayStation®Home? Lesen Sie den offiziellen Hilfesystem-Leitfaden.
 
 ![NPIA00005_screenshot_2022_07_02_07_11_32](https://user-images.githubusercontent.com/67494727/176998274-cb37391e-e5fb-498e-aa93-16ac9b2f2014.png)
 
-📙 | During Home's lifespan, it has been noted that approximately **41 million** users worldwide accessed Home. However as newer social platforms are beginning to gain popularity, I know there are players who have never experienced Home in its true prime. This resource is a great place to get started to aid new users as they explore **PlayStation®Home** social platform for the first time!
+📙 | Während der Lebensdauer von Home wurde festgestellt, dass ungefähr **41 Millionen** Benutzer weltweit auf Home zugegriffen haben. Da jedoch neuere soziale Plattformen an Popularität gewinnen, weiß ich, dass es Spieler gibt, die Home noch nie in seiner wahren Blütezeit erlebt haben. Diese Ressource ist ein großartiger Ausgangspunkt, um neuen Benutzern dabei zu helfen, die soziale Plattform **PlayStation®Home** zum ersten Mal zu erkunden!
 :---: | :---   
 
 <details>
