@@ -44,11 +44,11 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
     
 ![NPIA00005_screenshot_2022_05_11_21_59_37](https://user-images.githubusercontent.com/67494727/174608070-8d03ac8c-7429-4df1-9e5e-cf1c50c0c042.png)
   
- ℹ️ | Currently we are in our closed/internal **Alpha-Testing phase**. During this time we are working on fixing the following network services & functions within Home's intricate ecosystem.
+ ℹ️ | Zurzeit befinden wir uns in unserer geschlossenen/internen **Alpha-Testphase**. Während dieser Zeit arbeiten wir daran, die folgenden Netzwerkdienste und Funktionen innerhalb des komplizierten Ökosystems von Home wiederherzustellen.
 :---: | :---  
 
-- [x] Adding additional security services to protect our future database, as we know Home had many exploits during its time on the **PLAYSTATION®3**.
-- [x] Ensuring that our Home client is compatible with all PS3 firmware e.g., [4.89 official firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
+- [x] Hinzufügen zusätzlicher Sicherheitsdienste zum Schutz unseres zukünftigen Netzwerks und unserer Community, da wir wissen, dass Home damals auf der **PLAYSTATION®3** viele Sicherheitslücken hatte.
+- [x] Sicherstellen, dass unser Home-Client mit jeder PS3-Firmware kompatibel ist, z. B. mit der [offiziellen Firmware 4.89]. [4.89 official firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
 - [x] Fixing any broken services & functions e.g., broken video content, network activity between minigames. 
 - [ ] Localization for all objects & all public/private scenes.
 - [x] Stress testing our current network infrastructure.
