@@ -475,10 +475,10 @@ Willkommen zur offiziellen Anleitung, wie Benutzer [**PlayStation®Home**](https
 
 ![Community_BootScreen2_background](https://user-images.githubusercontent.com/67494727/177429823-d24dd002-8b83-4b36-869c-671fa84b7280.png)
 
-- [x] Offizielle Firmware-Unterstützung für die [neueste](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3-Firmware. „Stand 22.05.2022 ist v4.89 die neueste Firmware für PS3“.
-- [x] Wir verwenden die [Version 1.86 von **PlayStation®Home**](https://www.ign.com/articles/2014/03/11/playstation-home-getting-trophies-in-new-update) für unser Produktionskunde.
+- [x] Offizielle Firmware-Unterstützung für die [neueste](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3-Firmware. (Stand: 22.05.2022 ist v4.89 die neueste Firmware für die PS3).
+- [x] Wir verwenden die [Version 1.86 von **PlayStation®Home**](https://www.ign.com/articles/2014/03/11/playstation-home-getting-trophies-in-new-update) für unseren Produktionsclienten.
 - [x] Trophäenunterstützung wird auf der PS3 verfügbar sein. RPCS3 wird seinen entsprechenden Dienst für die Handhabung von Trophäen verwenden.
-- [x] Belohnungen. „Dazu gehören Möbel, Kleidung, Wohnungen usw.“
+- [x] Belohnungen. `Dazu gehören Möbel, Kleidung, Wohnungen usw.
 - [x] Regionsübergreifende Unterstützung `Benutzer können auf alle regionalen Bereiche zugreifen, unabhängig davon, welches Herkunftsland mit ihrem PSN-Konto verbunden ist. Beispielsweise kann ein Spieler aus Japan auf nordamerikanische Szenen zugreifen und umgekehrt.
 - [x] Benutzer mit **PlayStation®Plus** im PSN haben Zugriff auf zusätzliche Schriftfarben für ihre IDs im Spiel und haben die Möglichkeit, die Haare ihres Avatars in jeder Farbe anzupassen. Weitere Informationen zu dieser Funktion finden Sie im folgenden Video.
 
