@@ -35,7 +35,7 @@
         <img src="https://img.shields.io/badge/-PlayStation%20Home%20Cache%20Extraction%20Guide%20Home-003247"
             alt="PlayStation Home Cache Extraction Guide"></a>
   
-Wir sind ein Team, das sich für die Wiederherstellung von [**PlayStation®Home**](https://en.wikipedia.org/wiki/PlayStation_Home) engagiert Original-Online-Funktionalität für die Bewahrung und Bildung der Spielgeschichte. Spende deine **PlayStation®Home** Cache-Daten [hier](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
+Wir sind ein Team, das sich für die Wiederherstellung von [**PlayStation®Home**](https://en.wikipedia.org/wiki/PlayStation_Home) und der Original-Online-Funktionalität für die Bewahrung und Bildung der Spielgeschichte engagiert. Spende deine **PlayStation®Home** Cache-Daten [hier](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
  
 # 📣 Aktueller Status der Server/Dienste von Destination Home Online Revival:
   <p align="center">
@@ -99,7 +99,7 @@ Diese Online-Version wurde für diesen Test *maßgeschneidert* und ist *NICHT* r
 - Die Region Ihres PSN-Kontos ist in der Regel der Ort, an dem Sie zum Zeitpunkt der Erstellung des Kontos leben/gelebt haben.
 - Die Region Ihres RPCN-Kontos ist **Nordamerika** (standardmäßig).
 - Über den Zeitraum von 2 Wochen wird der Zugang nach dem Zufallsprinzip in Phasen gewährt; Seien Sie geduldig.
-- Wir haben das Recht, allen Beta-Benutzern den Zugriff zu entziehen, wenn der [Verhaltenskodex der Destination Home Online Community] (https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A1-%7C-Destination-Home-Online-Community-Code-of-Conduct) verletzt wird. 
+- Wir haben das Recht, allen Beta-Benutzern den Zugriff zu entziehen, wenn der [Verhaltenskodex der Destination Home Online Community](https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A1-%7C-Destination-Home-Online-Community-Code-of-Conduct) verletzt wird. 
     
 📸 | Wir empfehlen das Teilen von Fotos/Videos während der geschlossenen Beta, aber bitte weisen Sie beim Posten auf die oben genannten Punkte hin, damit die Leute nicht auf falsche Gedanken kommen!
     
@@ -110,7 +110,7 @@ Diese Online-Version wurde für diesen Test *maßgeschneidert* und ist *NICHT* r
     
 ![hub](https://user-images.githubusercontent.com/67494727/187338433-2674242f-1e40-4348-8b78-1f2eb15063bf.png)
  
-🤖 | Ab dem 12.08.2022 hat das Destination Home Team nun unseren offiziellen Beta-Registrierungs-Bot bereitgestellt, der in Vorbereitung auf unsere erste geschlossene Beta automatisch die RPCN-/PSN-IDs unserer Cache-Spender/Nitro-Booster akzeptiert. Benutzer müssen bereits ein verifizierter Cache-Spender/Nitro-Booster auf unserem [Discord-Server] (https://discord.com/invite/QguSBT3) sein, um diese offene Registrierungsphase fortzusetzen. Um sich anzumelden, können Benutzer die folgenden Argumente/Befehle eingeben:
+🤖 | Ab dem 12.08.2022 hat das Destination Home Team nun unseren offiziellen Beta-Registrierungs-Bot bereitgestellt, der in Vorbereitung auf unsere erste geschlossene Beta automatisch die RPCN-/PSN-IDs unserer Cache-Spender/Nitro-Booster akzeptiert. Benutzer müssen bereits ein verifizierter Cache-Spender/Nitro-Booster auf unserem [Discord-Server](https://discord.com/invite/QguSBT3) sein, um diese offene Registrierungsphase fortzusetzen. Um sich anzumelden, können Benutzer die folgenden Argumente/Befehle eingeben:
 :---: | :---
  
 - `/beta enroll [platform] [username] [region] [agreement]`
@@ -382,9 +382,9 @@ Unsere Roadmap hat **drei Klassifikationen**, die unsere aktuellen Prioritäten 
 
 # Kurze Zusammenfassung:
 
-Willkommen zur offiziellen Anleitung, wie Benutzer [**PlayStation®Home**](https://en.wikipedia.org/wiki/PlayStation_Home) online auf der PS3 wiedererleben können &amp; [RPCS3](https://rpcs3.net/). Um über das Projekt auf dem Laufenden zu bleiben, folgen Sie bitte unserer Diskussionsseite auf unserem [**Github**](https://github.com/DestinationHome/Destination-Home-Online/discussions), da unser Community Manager [**Figment**](https://github.com/PSHFigment) dort die neuesten Nachrichten in Bezug auf neue Home-Updates veröffentlichen wird. Für alles rund um **PlayStation®Home** haben wir für dieses Repo eine umfassende Komposition [Wiki-System](https://github.com/DestinationHome/Destination-Home-Online/wiki) erstellt, um zu dokumentieren, wie Benutzer auf unsere Dienste zugreifen können.
+Willkommen zur offiziellen Anleitung, wie Benutzer [**PlayStation®Home**](https://en.wikipedia.org/wiki/PlayStation_Home) online auf der PS3 wiedererleben können [RPCS3](https://rpcs3.net/). Um über das Projekt auf dem Laufenden zu bleiben, folgen Sie bitte unserer Diskussionsseite auf unserem [**Github**](https://github.com/DestinationHome/Destination-Home-Online/discussions), da unser Community Manager [**Figment**](https://github.com/PSHFigment) dort die neuesten Nachrichten in Bezug auf neue Home-Updates veröffentlichen wird. Für alles rund um **PlayStation®Home** haben wir für dieses Repo eine umfassende Komposition [Wiki-System](https://github.com/DestinationHome/Destination-Home-Online/wiki) erstellt, um zu dokumentieren, wie Benutzer auf unsere Dienste zugreifen können.
 
-![Destination Home Online offizieller-Wiki](https://user-images.githubusercontent.com/67494727/167228438-dc27564a-05d6-49ae-814a-936b6708f863.png)
+![Destination Home Online Official Wiki](https://user-images.githubusercontent.com/67494727/167228438-dc27564a-05d6-49ae-814a-936b6708f863.png)
 
 # <h1 align="center">🌐 Öffentliche DNS-Einstellung von Destination Home: *Wird bald bekannt gegeben.*</h1>
 
