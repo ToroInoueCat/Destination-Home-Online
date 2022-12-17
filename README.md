@@ -47,7 +47,7 @@ Wir sind ein Team, das sich für die Wiederherstellung von [**PlayStation®Home*
 :---: | :---  
 
 - [x] Hinzufügen zusätzlicher Sicherheitsdienste zum Schutz unseres zukünftigen Netzwerks und unserer Community, da wir wissen, dass Home damals auf der **PLAYSTATION®3** viele Sicherheitslücken hatte.
-- [x] Sicherstellen, dass unser Home-Client mit jeder PS3-Firmware kompatibel ist, z. B. mit der [offiziellen Firmware 4.89].(https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
+- [x] Sicherstellen, dass unser Home-Client mit jeder PS3-Firmware kompatibel ist, z. B. mit der [offiziellen Firmware 4.89](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
 - [x] Behebung der defekten Dienste und Funktionen, z. B. defekter Videoinhalt, Netzwerkaktivität zwischen Minispielen.
 - [ ] Lokalisierung für alle Objekte und alle öffentlichen/privaten Szenen.
 - [x] Stresstests unserer aktuellen Netzwerkinfrastruktur.
@@ -66,7 +66,7 @@ Wie bei jedem Multiplayer Online-Titel durchlaufen unsere Online-Dienste **stren
        - Phase IV: Alle Spender/Booster.
     
 - **3.** *Geschlossene Beta* [**Sitzung 2**] -- Wie oben genannt, aber mit Verbesserungen, Korrekturen und weiteren Inhalten, die unserem Client hinzugefügt wurden.
-- **4.** *Offene Beta* -- Früher Zugang, der für **alle Discord-Mitglieder** verfügbar ist. [Discord](https://discord.gg/QguSBT3).
+- **4.** *Offene Beta* -- Früher Zugang, der für **alle Discord-Mitglieder** verfügbar ist. [Discord](https://discord.gg/QguSBT3)
 - **5.** *Offizielle Veröffentlichung*  
     
 ⚠️ | Beachten Sie, dass es kein *Datum* dafür gibt, wann welche Phase eintritt! Die Entwickler arbeiten in ihrer **Freizeit** und an allen Verpflichtungen im echten Leben, z. B. *College*, *Arbeit*, *Familienangelegenheiten*. Diese beeinflussen den Fortschritt enorm; bitte haben Sie Geduld.
