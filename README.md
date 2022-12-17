@@ -504,7 +504,7 @@ https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-
   
  ![170836541-94ee2396-cfd6-4017-88b3-135eef2488aa](https://user-images.githubusercontent.com/67494727/171184130-c1944536-e9b9-45db-a4c9-e612ed3f6644.png)
 
-Das Verdienen von Belohnungen/Gegenständen war Teil des ursprünglichen Charmes von PlayStation Home! Während der Online-Betaphase von Home konnten mehr als Tausende von Belohnungen aus verschiedenen Events, Minispielen und sogar physischen PS3-Titeln verdient werden. Kürzlich habe ich beschlossen, ein vollständiges [Archiv/Datenbank](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive) für die SCEA/SCEE-Region Home zu erstellen, um jedes einzelne **PlayStation®Home** zu dokumentieren. Belohnungsobjekt.
+Das Verdienen von Belohnungen/Gegenständen war Teil des ursprünglichen Charmes von PlayStation Home! Während der Online-Betaphase von Home konnten mehr als Tausende von Belohnungen aus verschiedenen Events, Minispielen und sogar physischen PS3-Titeln verdient werden. Kürzlich habe ich beschlossen, ein vollständiges [Archiv/Datenbank](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive) für die SCEA/SCEE-Region Home zu erstellen, um jedes einzelne **PlayStation®Home** Belohnungsobjekt zu dokumentieren.
 
 # 🕹️ PlayStation®Home-Minispiel-Kompatibilitätsliste:
 
