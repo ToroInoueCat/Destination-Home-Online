@@ -35,7 +35,7 @@
         <img src="https://img.shields.io/badge/-PlayStation%20Home%20Cache%20Extraction%20Guide%20Home-003247"
             alt="PlayStation Home Cache Extraction Guide"></a>
   
-Wir sind ein Team, das sich für die Wiederherstellung von [**PlayStation®Home**](https://en.wikipedia.org/wiki/PlayStation_Home) und der Original-Online-Funktionalität für die Bewahrung und Bildung der Spielgeschichte engagiert. Spende deine **PlayStation®Home** Cache-Daten [hier](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
+Wir sind ein Team, das sich für die Wiederherstellung von [**PlayStation®Home**](https://en.wikipedia.org/wiki/PlayStation_Home) und der Original-Online-Funktionalität für die Bewahrung und Bildung der Spielgeschichte engagiert. Spenden Sie Ihre **PlayStation®Home** Cache-Daten [hier](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
  
 # 📣 Aktueller Status der Server/Dienste von Destination Home Online Revival:
   <p align="center">
