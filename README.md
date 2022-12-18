@@ -466,7 +466,7 @@ Willkommen zur offiziellen Anleitung, wie Benutzer [**PlayStation®Home**](https
 
 | Voraussetzungen für PS3: | Anforderungen für RPCS3: |
 | ------------- | ------------- |
-| Eine [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3). | Ein PC, der die [empfohlenen Hardwareanforderungen] (https://rpcs3.net/quickstart) zum Ausführen des Emulators unterstützt. |
+| Eine [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3). | Ein PC, der die [empfohlenen Hardwareanforderungen](https://rpcs3.net/quickstart) zum Ausführen des Emulators unterstützt. |
 | Ein [**PlayStation™Network**-Konto](https://www.playstation.com/en-us/playstation-network/). | Ein [**RPCN**-Konto](https://wiki.rpcs3.net/index.php?title=Help:Netplay). |
 | Der neueste **PlayStation®Home** Online-Client von unserer [Release-Seite](https://github.com/DestinationHome/Destination-Home-Online/releases). | Der neueste benutzerdefinierte RPCS3 **PlayStation®Home**-Client von unserer [Release-Seite](https://github.com/DestinationHome/Destination-Home-Online/releases). |
 | Eine aktive Netzwerkverbindung. | Eine aktive Netzwerkverbindung. |
