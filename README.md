@@ -492,7 +492,7 @@ https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-
 - [ ] Handelspunkte "Shops" für **RPCS3**.
 - [ ] [Home Tycoon von HellFire Games](https://blog.playstation.com/2012/10/01/this-week-in-playstation-home-build-your-own-virtual-city-in-home-tycoon/). 
     - Home Tycoon war ein kostenlos spielbares, vollständig anpassbares 3D-Städtebauspiel. (Dies war im Grunde ein Spiel innerhalb eines Spiels).
-- [ ] [Funktion für das Untersuchen von Avataren](https://blog.playstation.com/2013/09/18/new-to-playstation-home-inspect-items/).
+- [ ] [Funktion, für das Untersuchen von Avataren](https://blog.playstation.com/2013/09/18/new-to-playstation-home-inspect-items/).
 - [ ] [Quest-Manager](https://www.engadget.com/2011-08-23-playstation-home-relaunches-this-fall-with-a-questing-system-th.htm).
 - [ ] **PlayStation™Network Matching2 Services** wird nicht für **RPCS3** zur Verfügung stehen.
 - [ ] [PlayStation®Home Herausforderungssystem](https://blog.playstation.com/archive/2013/10/29/playstation-home-update-do-you-accept-the-challenge).
