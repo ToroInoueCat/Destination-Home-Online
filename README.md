@@ -78,7 +78,7 @@ Wie bei jedem Multiplayer Online-Titel durchlaufen unsere Online-Dienste **stren
 ![CENTRAL PLAZA BETA ADD](https://user-images.githubusercontent.com/67494727/187321907-d5a3c9d0-ebca-4e3b-99f2-aa261f0ad854.png)
 
 Die geschlossene Beta ist ein **2-wöchiger Zeitraum**, in dem Benutzer das Online testen und dem Team wertvolle Daten/Informationen zur Verfügung stellen können, die für die weitere Entwicklung verwendet werden.
-Diese Online-Version wurde für diesen Test *maßgeschneidert* und ist *NICHT* repräsentativ für das, was schließlich öffentlich verfügbar gemacht wird.
+Diese Online-Version wurde für diesen Test *maßgeschneidert* und ist *NICHT* repräsentativ für das, was am Ende öffentlich verfügbar gemacht wird.
 
  ℹ️ | Wichtige Informationen während der ersten geschlossenen Beta Phase:
 :---: | :--- 
