@@ -557,7 +557,7 @@ In Bezug auf Minispiele werden leider für bestimmte Szenen nicht alle Minispiel
 <img width="1000" alt="GitHubNagatoBanner" src="https://user-images.githubusercontent.com/67494727/140847055-8fe6ecb6-dca3-4ce9-b660-98068356aaed.png">
 
 <p align="center">
-    Haben Sie Fragen zu dieser Version oder diesem Artikel? Kontaktieren Sie mich gerne auf folgenden sozialen Plattformen:
+    Haben Sie Fragen zu diesem Artikel? Kontaktieren Sie mich gerne auf folgenden sozialen Plattformen:
 </p>
 
   <p align="center">
