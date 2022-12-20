@@ -496,7 +496,7 @@ https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-
 - [ ] [Quest-Manager](https://www.engadget.com/2011-08-23-playstation-home-relaunches-this-fall-with-a-questing-system-th.htm).
 - [ ] **PlayStation™Network Matching2 Services** wird nicht für **RPCS3** zur Verfügung stehen.
 - [ ] [PlayStation®Home Herausforderungssystem](https://blog.playstation.com/archive/2013/10/29/playstation-home-update-do-you-accept-the-challenge).
-- [ ] [Teleporter-System für Kernszenen](https://blog.playstation.com/2011/10/31/playstation-home-redesign-video-tour-new-games-genre-based-districts-and-more/) e.g., **The Hub, First Floor Mall, Pier Park**.
+- [ ] [Teleporter-System für Kernszenen](https://blog.playstation.com/2011/10/31/playstation-home-redesign-video-tour-new-games-genre-based-districts-and-more/) z. B. **The Hub, First Floor Mall, Pier Park**.
 - [ ] [Wardrobe Wars](https://www.youtube.com/watch?v=-rJ5kaqFyQ0).
 
   
